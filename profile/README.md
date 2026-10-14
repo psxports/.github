@@ -16,10 +16,7 @@ Homebrew hackers built emulators that kept these games alive. We use their work 
 We recover what was lost.  
 They resell what survived them.
 
-They own the contracts.  
-The games belong to history.
-
-Every game carries a fragment of its creators: in every hand-tuned animation, impossible memory trick, and beautifully cursed hack that made the hardware do something it had no business doing.
+Every game carries a fragment of its creators: in every hand-tuned animation, impossible trick, and beautifully cursed hack that made the hardware do something it had no business doing.
 
 Keeping that code alive keeps something of those people alive.
 
@@ -35,8 +32,6 @@ We stand on the shoulders of generations of hackers, engineers, and researchers.
 AI and automation let that work reach further. The expertise is ours. So is the responsibility. The machine helps us test, document, and multiply what we know.
 
 Knowledge travels faster than approval chains. While they defend their positions and buy their competitors, the next hacker is already learning the tools. Every discovery gives someone else a head start. When one of us steps away, another picks up the debugger.
-
-Buy another studio. You still cannot acquire a movement.
 
 We are the maintainers nobody appointed.  
 The archivists nobody funded.  
