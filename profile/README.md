@@ -42,8 +42,6 @@ We are the maintainers nobody appointed.
 The archivists nobody funded.  
 The porting teams nobody hired.
 
-Still in our garages. Still learning. Still burning.
-
 They had thirty years.
 
 Now it is our turn.
