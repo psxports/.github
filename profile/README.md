@@ -1,4 +1,4 @@
-# THE XPORT MANIFESTO
+# THE MANIFESTO
 
 > They had thirty years.  
 > We have disassemblers, relentless automation, and no intention of waiting another thirty.
