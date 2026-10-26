@@ -1,0 +1,40 @@
+name: Update project catalog
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/update-profile.py'
+      - '.github/workflows/update-profile.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: organization-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Generate project catalog
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/update-profile.py
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- profile/README.md; then
+            echo "Catalog is unchanged"
+            exit 0
+          fi
+          git add -- profile/README.md
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update project catalog'
+          git push origin HEAD:main
