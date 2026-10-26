@@ -1,42 +1,56 @@
-# THE MANIFESTO
+<!-- projects:start -->
+# Projects
 
-> They had thirty years.  
-> We have disassemblers, relentless automation, and no intention of waiting another thirty.
+<!-- A repository with several topics appears once, under enhanced before playable -->
 
-The IP holders had three decades to preserve these games. Source trees vanished, studios were dismantled, and preservation got stuck behind a revenue forecast.
+## Enhanced · 3
 
-Backward compatibility gets dropped. Storefronts close. The games that built their empires are left behind.
+<table>
+  <tr>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/Apocalypse-xport" title="Apocalypse-xport"><img src="https://raw.githubusercontent.com/psxports/Apocalypse-xport/main/cover.png" alt="Apocalypse-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/Pandemonium2-xport" title="Pandemonium2-xport"><img src="https://raw.githubusercontent.com/psxports/Pandemonium2-xport/main/cover.png" alt="Pandemonium2-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/RapidRacer-xport" title="RapidRacer-xport"><img src="https://raw.githubusercontent.com/psxports/RapidRacer-xport/main/cover.png" alt="RapidRacer-xport" width="160"></a></td>
+  </tr>
+</table>
 
-The people who built these worlds have moved on, retired, or passed away. Their successors give everything — their talent, their health, years of their lives — and get laid off by the thousand. When reckless expansion collapses, the builders pay. Cut the research. Milk the IP. Call it efficiency. Take the same management playbook to the next studio.
+## Playable · 5
 
-The corporations bought the paperwork, buried the teams, and lost the code. Somehow, they never lost track of the royalties.
+<table>
+  <tr>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/AgentArmstrong-xport" title="AgentArmstrong-xport"><img src="https://raw.githubusercontent.com/psxports/AgentArmstrong-xport/main/cover.png" alt="AgentArmstrong-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/DemolitionRacer-xport" title="DemolitionRacer-xport"><img src="https://raw.githubusercontent.com/psxports/DemolitionRacer-xport/main/cover.png" alt="DemolitionRacer-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/FightingForce-xport" title="FightingForce-xport"><img src="https://raw.githubusercontent.com/psxports/FightingForce-xport/main/cover.png" alt="FightingForce-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/OverBlood-xport" title="OverBlood-xport"><img src="https://raw.githubusercontent.com/psxports/OverBlood-xport/main/cover.png" alt="OverBlood-xport" width="160"></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/TestDrive5-xport" title="TestDrive5-xport"><img src="https://raw.githubusercontent.com/psxports/TestDrive5-xport/main/cover.png" alt="TestDrive5-xport" width="160"></a></td>
+  </tr>
+</table>
 
-Homebrew hackers built emulators that kept these games alive. We use their work to trace execution and reconstruct lost code. Corporations have bundled community-built emulators with old game images and a fresh price tag.
+## W.I.P. · 13
 
-We recover what was lost.  
-They resell what survived them.
+<table>
+  <tr>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/AceCombat3-xport" title="AceCombat3-xport"><img src="https://raw.githubusercontent.com/psxports/AceCombat3-xport/main/cover.png" alt="AceCombat3-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/AutoDestruct-xport" title="AutoDestruct-xport"><img src="https://raw.githubusercontent.com/psxports/AutoDestruct-xport/main/cover.png" alt="AutoDestruct-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/ColonyWars-xport" title="ColonyWars-xport"><img src="https://raw.githubusercontent.com/psxports/ColonyWars-xport/main/cover.png" alt="ColonyWars-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/Gex3-xport" title="Gex3-xport"><img src="https://raw.githubusercontent.com/psxports/Gex3-xport/main/cover.png" alt="Gex3-xport" width="160"></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/MedalOfHonor-xport" title="MedalOfHonor-xport"><img src="https://raw.githubusercontent.com/psxports/MedalOfHonor-xport/main/cover.png" alt="MedalOfHonor-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/MortalKombatMythologies-xport" title="MortalKombatMythologies-xport"><img src="https://raw.githubusercontent.com/psxports/MortalKombatMythologies-xport/main/cover.png" alt="MortalKombatMythologies-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/NFSHS-xport" title="NFSHS-xport"><img src="https://raw.githubusercontent.com/psxports/NFSHS-xport/main/cover.png" alt="NFSHS-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/Overboard-xport" title="Overboard-xport"><img src="https://raw.githubusercontent.com/psxports/Overboard-xport/main/cover.png" alt="Overboard-xport" width="160"></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/RoadRashJailbreak-xport" title="RoadRashJailbreak-xport"><img src="https://raw.githubusercontent.com/psxports/RoadRashJailbreak-xport/main/cover.png" alt="RoadRashJailbreak-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/SyphonFilter-xport" title="SyphonFilter-xport"><img src="https://raw.githubusercontent.com/psxports/SyphonFilter-xport/main/cover.png" alt="SyphonFilter-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/Tekken3-xport" title="Tekken3-xport"><img src="https://raw.githubusercontent.com/psxports/Tekken3-xport/main/cover.png" alt="Tekken3-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/TwistedMetal3-xport" title="TwistedMetal3-xport"><img src="https://raw.githubusercontent.com/psxports/TwistedMetal3-xport/main/cover.png" alt="TwistedMetal3-xport" width="160"></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="https://github.com/psxports/Vigilante8-xport" title="Vigilante8-xport"><img src="https://raw.githubusercontent.com/psxports/Vigilante8-xport/main/cover.png" alt="Vigilante8-xport" width="160"></a></td>
+  </tr>
+</table>
 
-Every game carries a fragment of its creators: in every hand-tuned animation, impossible trick, and beautifully cursed hack that made the hardware do something it had no business doing.
-
-Keeping that code alive keeps something of those people alive.
-
-That is why we spend years naming forgotten functions, fighting compilers, and bringing dead code back to life.
-
-Not because we never grew up.  
-Because we did.
-
-The kids who played these games became programmers, reverse engineers, artists, and toolsmiths. These worlds helped teach us our craft. Now we have the skills to give something back.
-
-We stand on the shoulders of generations of hackers, engineers, and researchers. Every tool we wield carries years of someone else's work. They pushed the limits of what could be understood. We owe them credit — and something worth building on.
-
-AI and automation let that work reach further. The expertise is ours. So is the responsibility. The machine helps us test, document, and multiply what we know.
-
-Knowledge travels faster than approval chains. While they defend their positions and buy their competitors, the next hacker is already learning the tools. Every discovery gives someone else a head start. When one of us steps away, another picks up the debugger.
-
-We are the maintainers nobody appointed.  
-The archivists nobody funded.  
-The porting teams nobody hired.
-
-They had thirty years.
-
-Now it is our turn.
+<!-- projects:end -->
