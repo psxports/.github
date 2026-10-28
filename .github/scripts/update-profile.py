@@ -53,7 +53,7 @@ def cover(repo):
         urllib.parse.quote(part, safe="") for part in parts
     ) + "/cover.png"
     if request(url, method="HEAD", missing_ok=True):
-        return dict(name=repo["name"], url=repo["html_url"], topics=repo["topics"], cover=url)
+        return dict(name=repo["name"], url=repo["html_url"], topics=repo["topics"], homepage=repo.get("homepage"), cover=url)
     return None
 
 
@@ -72,7 +72,11 @@ def render(rows):
         for start in range(0, len(entries), 4):
             lines.append("  <tr>")
             for row in entries[start:start + 4]:
-                name, url, image = (html.escape(row[key], quote=True) for key in ("name", "url", "cover"))
+                website = (row.get("homepage") or "").strip()
+                parsed = urllib.parse.urlsplit(website)
+                target = website if title != "W.I.P." and parsed.scheme in ("http", "https") and parsed.netloc else row["url"]
+                name, image = (html.escape(row[key], quote=True) for key in ("name", "cover"))
+                url = html.escape(target, quote=True)
                 lines.append(f'    <td align="center" valign="middle"><a href="{url}" title="{name}"><img src="{image}" alt="{name}" width="160"></a></td>')
             lines.append("  </tr>")
         lines += ["</table>", ""]
