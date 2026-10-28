@@ -7,9 +7,9 @@
 
 <table>
   <tr>
-    <td align="center" valign="middle"><a href="https://github.com/psxports/Apocalypse-xport" title="Apocalypse-xport"><img src="https://raw.githubusercontent.com/psxports/Apocalypse-xport/main/cover.png" alt="Apocalypse-xport" width="160"></a></td>
-    <td align="center" valign="middle"><a href="https://github.com/psxports/Pandemonium2-xport" title="Pandemonium2-xport"><img src="https://raw.githubusercontent.com/psxports/Pandemonium2-xport/main/cover.png" alt="Pandemonium2-xport" width="160"></a></td>
-    <td align="center" valign="middle"><a href="https://github.com/psxports/RapidRacer-xport" title="RapidRacer-xport"><img src="https://raw.githubusercontent.com/psxports/RapidRacer-xport/main/cover.png" alt="RapidRacer-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://psxports.to/A/" title="Apocalypse-xport"><img src="https://raw.githubusercontent.com/psxports/Apocalypse-xport/main/cover.png" alt="Apocalypse-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://psxports.to/P2/" title="Pandemonium2-xport"><img src="https://raw.githubusercontent.com/psxports/Pandemonium2-xport/main/cover.png" alt="Pandemonium2-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="http://psxports.to/RR/" title="RapidRacer-xport"><img src="https://raw.githubusercontent.com/psxports/RapidRacer-xport/main/cover.png" alt="RapidRacer-xport" width="160"></a></td>
   </tr>
 </table>
 
@@ -17,13 +17,13 @@
 
 <table>
   <tr>
-    <td align="center" valign="middle"><a href="https://github.com/psxports/AgentArmstrong-xport" title="AgentArmstrong-xport"><img src="https://raw.githubusercontent.com/psxports/AgentArmstrong-xport/main/cover.png" alt="AgentArmstrong-xport" width="160"></a></td>
-    <td align="center" valign="middle"><a href="https://github.com/psxports/DemolitionRacer-xport" title="DemolitionRacer-xport"><img src="https://raw.githubusercontent.com/psxports/DemolitionRacer-xport/main/cover.png" alt="DemolitionRacer-xport" width="160"></a></td>
-    <td align="center" valign="middle"><a href="https://github.com/psxports/FightingForce-xport" title="FightingForce-xport"><img src="https://raw.githubusercontent.com/psxports/FightingForce-xport/main/cover.png" alt="FightingForce-xport" width="160"></a></td>
-    <td align="center" valign="middle"><a href="https://github.com/psxports/OverBlood-xport" title="OverBlood-xport"><img src="https://raw.githubusercontent.com/psxports/OverBlood-xport/main/cover.png" alt="OverBlood-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="http://psxports.to/AA/" title="AgentArmstrong-xport"><img src="https://raw.githubusercontent.com/psxports/AgentArmstrong-xport/main/cover.png" alt="AgentArmstrong-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://psxports.to/DR/" title="DemolitionRacer-xport"><img src="https://raw.githubusercontent.com/psxports/DemolitionRacer-xport/main/cover.png" alt="DemolitionRacer-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://psxports.to/FF/" title="FightingForce-xport"><img src="https://raw.githubusercontent.com/psxports/FightingForce-xport/main/cover.png" alt="FightingForce-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://psxports/OB/" title="OverBlood-xport"><img src="https://raw.githubusercontent.com/psxports/OverBlood-xport/main/cover.png" alt="OverBlood-xport" width="160"></a></td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><a href="https://github.com/psxports/TestDrive5-xport" title="TestDrive5-xport"><img src="https://raw.githubusercontent.com/psxports/TestDrive5-xport/main/cover.png" alt="TestDrive5-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://psxports.to/TD5/" title="TestDrive5-xport"><img src="https://raw.githubusercontent.com/psxports/TestDrive5-xport/main/cover.png" alt="TestDrive5-xport" width="160"></a></td>
   </tr>
 </table>
 
