@@ -3,7 +3,7 @@
 
 <!-- A repository with several topics appears once, under enhanced before playable -->
 
-## Enhanced · 5
+## Enhanced · 6
 
 <table>
   <tr>
@@ -14,10 +14,11 @@
   </tr>
   <tr>
     <td align="center" valign="middle"><a href="http://psxports.to/RR/" title="RapidRacer-xport"><img src="https://raw.githubusercontent.com/psxports/RapidRacer-xport/main/cover.png" alt="RapidRacer-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://psxports.to/TD5/" title="TestDrive5-xport"><img src="https://raw.githubusercontent.com/psxports/TestDrive5-xport/main/cover.png" alt="TestDrive5-xport" width="160"></a></td>
   </tr>
 </table>
 
-## Playable · 6
+## Playable · 5
 
 <table>
   <tr>
@@ -28,7 +29,6 @@
   </tr>
   <tr>
     <td align="center" valign="middle"><a href="https://psxports.to/OB/" title="OverBlood-xport"><img src="https://raw.githubusercontent.com/psxports/OverBlood-xport/main/cover.png" alt="OverBlood-xport" width="160"></a></td>
-    <td align="center" valign="middle"><a href="https://psxports.to/TD5/" title="TestDrive5-xport"><img src="https://raw.githubusercontent.com/psxports/TestDrive5-xport/main/cover.png" alt="TestDrive5-xport" width="160"></a></td>
   </tr>
 </table>
 
