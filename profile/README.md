@@ -3,28 +3,30 @@
 
 <!-- A repository with several topics appears once, under enhanced before playable -->
 
-## Enhanced · 3
+## Enhanced · 5
 
 <table>
   <tr>
+    <td align="center" valign="middle"><a href="https://psxports.to/AA/" title="AgentArmstrong-xport"><img src="https://raw.githubusercontent.com/psxports/AgentArmstrong-xport/main/cover.png" alt="AgentArmstrong-xport" width="160"></a></td>
     <td align="center" valign="middle"><a href="https://psxports.to/A/" title="Apocalypse-xport"><img src="https://raw.githubusercontent.com/psxports/Apocalypse-xport/main/cover.png" alt="Apocalypse-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://psxports.to/FF/" title="FightingForce-xport"><img src="https://raw.githubusercontent.com/psxports/FightingForce-xport/main/cover.png" alt="FightingForce-xport" width="160"></a></td>
     <td align="center" valign="middle"><a href="https://psxports.to/P2/" title="Pandemonium2-xport"><img src="https://raw.githubusercontent.com/psxports/Pandemonium2-xport/main/cover.png" alt="Pandemonium2-xport" width="160"></a></td>
+  </tr>
+  <tr>
     <td align="center" valign="middle"><a href="http://psxports.to/RR/" title="RapidRacer-xport"><img src="https://raw.githubusercontent.com/psxports/RapidRacer-xport/main/cover.png" alt="RapidRacer-xport" width="160"></a></td>
   </tr>
 </table>
 
-## Playable · 8
+## Playable · 6
 
 <table>
   <tr>
     <td align="center" valign="middle"><a href="https://psxports.to/AC3/" title="AceCombat3-xport"><img src="https://raw.githubusercontent.com/psxports/AceCombat3-xport/main/cover.png" alt="AceCombat3-xport" width="160"></a></td>
-    <td align="center" valign="middle"><a href="https://psxports.to/AA/" title="AgentArmstrong-xport"><img src="https://raw.githubusercontent.com/psxports/AgentArmstrong-xport/main/cover.png" alt="AgentArmstrong-xport" width="160"></a></td>
     <td align="center" valign="middle"><a href="https://psxports.to/CW/" title="ColonyWars-xport"><img src="https://raw.githubusercontent.com/psxports/ColonyWars-xport/main/cover.png" alt="ColonyWars-xport" width="160"></a></td>
     <td align="center" valign="middle"><a href="https://psxports.to/DR/" title="DemolitionRacer-xport"><img src="https://raw.githubusercontent.com/psxports/DemolitionRacer-xport/main/cover.png" alt="DemolitionRacer-xport" width="160"></a></td>
+    <td align="center" valign="middle"><a href="https://psxports.to/G3/" title="Gex3-xport"><img src="https://raw.githubusercontent.com/psxports/Gex3-xport/main/cover.png" alt="Gex3-xport" width="160"></a></td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><a href="https://psxports.to/FF/" title="FightingForce-xport"><img src="https://raw.githubusercontent.com/psxports/FightingForce-xport/main/cover.png" alt="FightingForce-xport" width="160"></a></td>
-    <td align="center" valign="middle"><a href="https://psxports.to/G3/" title="Gex3-xport"><img src="https://raw.githubusercontent.com/psxports/Gex3-xport/main/cover.png" alt="Gex3-xport" width="160"></a></td>
     <td align="center" valign="middle"><a href="https://psxports.to/OB/" title="OverBlood-xport"><img src="https://raw.githubusercontent.com/psxports/OverBlood-xport/main/cover.png" alt="OverBlood-xport" width="160"></a></td>
     <td align="center" valign="middle"><a href="https://psxports.to/TD5/" title="TestDrive5-xport"><img src="https://raw.githubusercontent.com/psxports/TestDrive5-xport/main/cover.png" alt="TestDrive5-xport" width="160"></a></td>
   </tr>
